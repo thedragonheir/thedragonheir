@@ -1,12 +1,11 @@
 ### C/C++ programmer focused on reverse engineering and game development.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/thedragonheir)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:denhaerynckjonathan@email.com)
 [![Discord](https://img.shields.io/badge/Discord-Contact-5865F2?logo=discord&logoColor=white)](https://discord.com/users/939875317152112661)
 
-My passion is deciphering and understanding what's going on 'under the hood.'
+My passion is exploring and understanding what goes on "under the hood" of older games and software.
 
-In most cases, this involves figuring out from the ground how someone has coded programs (especially after they've been compiled), locating routines and data structures through reverse methods or disassembling, and putting everything back together into a legible source code (in this case C++).
+To achieve this, I analyze compiled code, identify functions and data structures, and work to understand how the original systems operate. From there, I try to reconstruct their behavior into clear and readable source code. I then verify my work byte by byte, aiming to reproduce the original game's machine code as closely as possible and preserve the original implementation with the highest possible degree of fidelity. 
 
 **Experience**
 - Reverse engineering old game programs to understand how they were made
