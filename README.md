@@ -19,15 +19,12 @@ I then verify my work byte by byte, aiming to reproduce the original game's mach
 
 ---
 
-## GitHub Statistics
-
 <div align="center">
+
+## GitHub Statistics
 
 <a href="https://github.com/thedragonheir">
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=thedragonheir&show_icons=true&include_all_commits=true&rank_icon=default&theme=github_dark&border_color=30363d" />
-</a>
-<a href="https://github.com/thedragonheir">
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thedragonheir&layout=normal&langs_count=5&custom_title=Most%20Used%20Languages&theme=github_dark&border_color=30363d" />
 </a>
 
 </div>
